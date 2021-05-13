@@ -1,0 +1,22 @@
+body{
+  text-align:center;
+  background-color:linear-gradient( #c2fcef 0%,#ffbdde 100%) ;
+  background-repeat:0
+}
+h1{
+  font-family:comic sans ms;
+  color:burlywood
+}
+h2{
+  font-family:lucida handwriting;
+  color:turquoise;
+}
+#lily{
+  color:lightskyblue;
+  font-size:20px
+}
+#para1{
+  font-family:lucida handwriting;
+  color:lightcoral;
+  font-size:15px;
+}
